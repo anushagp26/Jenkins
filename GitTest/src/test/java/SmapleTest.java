@@ -3,7 +3,7 @@ public class SmapleTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-       String str = "anusha";
+       String str = "rushika";
  
         char[] a= str.toCharArray();
         System.out.println(str);
