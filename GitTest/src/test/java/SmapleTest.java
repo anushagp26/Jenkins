@@ -9,6 +9,7 @@ public class SmapleTest {
         System.out.println(str);
         for(int i=a.length-1; i>=0;i--)
         	 System.out.print(a[i]);
+        System.out.print("anusha *****************");
 	}
 
 }
