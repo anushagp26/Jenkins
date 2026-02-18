@@ -10,6 +10,7 @@ public class SmapleTest {
         for(int i=a.length-1; i>=0;i--)
         	 System.out.print(a[i]);
         System.out.print("anusha *****************");
+        System.out.print("santhosh *****************");
 	}
 
 }
